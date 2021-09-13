@@ -2,3 +2,5 @@
 permalink: pretty
 
 title: Octonews
+
+theme: jekyll-theme-cayman
